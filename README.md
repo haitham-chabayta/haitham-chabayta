@@ -40,6 +40,20 @@
 
 ---
 
+### 📕 Latest Projects Done
+
+<!-- PROJECTS-LIST:START -->
+
+- [Graph plotter](https://github.com/haitham-chabayta/Polynomial-Equations-Graph-Plotter)
+- [Dice game](https://github.com/haitham-chabayta/Dice-game)
+- [Respiratory rate calculator app](https://github.com/haitham-chabayta/contactless-respiratory-rate-measurement-app)
+- [Blind spot object detection system](https://github.com/haitham-chabayta/blind-spot-detection)
+- [Atrributes of 2D shapes Interactive Math lesson](https://github.com/haitham-chabayta/attributes-of-3d-shapes)
+
+<!-- PROJECTS-LIST:END -->
+
+---
+
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haitham-chabayta&show_icons=true&hide_border=true&hide=prs,issues" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haitham-chabayta)](https://github.com/haitham-chabayta/github-readme-stats)
