@@ -42,6 +42,10 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haitham-chabayta&show_icons=true&hide_border=true" />
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haitham-chabayta)](https://github.com/haitham-chabayta/github-readme-stats)
+
 [website]: http://www.hc-portfolio.epizy.com/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
