@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haitham-chabayta&show_icons=true&hide_border=true&hide=Total PRs" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haitham-chabayta&show_icons=true&hide_border=true&hide=contribs,prs,issues" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haitham-chabayta)](https://github.com/haitham-chabayta/github-readme-stats)
 
