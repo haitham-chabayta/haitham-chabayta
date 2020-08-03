@@ -1,4 +1,4 @@
-### Hi there, I'm Haitham
+### 👋 Hi there, I'm Haitham
 
 ## I'm an Iot architect and a full-stack developer!
 
