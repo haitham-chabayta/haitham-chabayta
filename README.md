@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Haitham
 
-## I'm an Iot architect and a full-stack developer!
+## I'm a full-stack developer!
 
 - 🔭 I’v recently graduated as an computer engineer with high honours!
 - 🌱 I’m currently learning everything 🤣
