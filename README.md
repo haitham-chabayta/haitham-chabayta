@@ -4,7 +4,7 @@
 
 - 🔭 I graduated 2 years ago as a computer engineer with high honors! 
 - 👯 I have 3 years of professional experience working in the field
-- 🌱 I’m currently learning everything 😁
+- 🌱 I’m keen to learn everything 😁
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
@@ -68,7 +68,6 @@
 - [Dice game](https://github.com/haitham-chabayta/Dice-game)
 - [Respiratory rate calculator app](https://github.com/haitham-chabayta/contactless-respiratory-rate-measurement-app)
 - [Blind spot object detection system](https://github.com/haitham-chabayta/blind-spot-detection)
-- [Atrributes of 2D shapes Interactive Math lesson](https://github.com/haitham-chabayta/attributes-of-3d-shapes)
 
 <!-- PROJECTS-LIST:END -->
 
@@ -77,13 +76,3 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haitham-chabayta&show_icons=true&hide_border=true&hide=prs,issues" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haitham-chabayta)](https://github.com/haitham-chabayta/github-readme-stats)
-
-[website]: http://www.hc-portfolio.epizy.com/
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/haitham-chabayta-0654681b1/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
