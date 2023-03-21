@@ -15,6 +15,8 @@
 
 ### Languages and Tools:
 
+<div style="display: flex; flex-wrap:wrap">
+  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" />
@@ -54,6 +56,8 @@
 <img align="left" alt="Rpi" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/raspberry-pi-3-569254.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 <img align="left" alt="ArduinoIDE" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/arduino-1-226076.png" />
+  
+ </div>
 
 <br />
 <br />
