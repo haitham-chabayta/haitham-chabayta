@@ -83,7 +83,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haitham-chabayta)](https://github.com/haitham-chabayta/github-readme-stats)
 
-[linkedin]: https://www.linkedin.com/in/haitham-chabayta-0654681b1/
+[linkedin]: https://www.linkedin.com/in/haitham-chabayta/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
