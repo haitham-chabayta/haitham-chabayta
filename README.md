@@ -5,7 +5,7 @@
 - 🔭 I graduated 4 years ago as a computer engineer with high honors! 
 - 👯 I have 5 years of professional experience working in the field
 - 🌱 I’m keen on learning everything 😁
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
